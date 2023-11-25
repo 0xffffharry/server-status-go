@@ -1,0 +1,5 @@
+.vscode/
+dist/
+webui/node_modules/
+webui/dist/
+.gitignore
